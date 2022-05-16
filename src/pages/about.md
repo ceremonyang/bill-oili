@@ -8,14 +8,6 @@ title: About
   <h3>About</h3>
 </div>
 
-[Vitesse](https://github.com/antfu/vitesse) is an opinionated [Vite](https://github.com/vitejs/vite) starter template made by [@antfu](https://github.com/antfu) for mocking apps swiftly. With **file-based routing**, **components auto importing**, **markdown support**, I18n, PWA and uses **UnoCSS** for styling and icons.
+## 关于博客
 
-```js
-// syntax highlighting example
-function vitesse() {
-  const foo = 'bar'
-  console.log(foo)
-}
-```
-
-Check out the [GitHub repo](https://github.com/antfu/vitesse) for more details.
+通过 [Vitesse](https://github.com/antfu/vitesse) 进行构建，在此感谢作者 [@antfu](https://github.com/antfu) 的卓越工作
